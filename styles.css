@@ -21,7 +21,7 @@ main {
 li.custom-list-item{
     margin: 15px;
 }
-#main-title{
+h1#main-title{
     font-size: 2em;
     text-shadow: 5px 5px 5px #fefefe;
     color: aquamarine;
