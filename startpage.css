@@ -37,6 +37,18 @@ main {
 #joke {
     text-align: center;
 }
+.joke-container {display: flex;
+justify-content: center;}
+p#joke {
+    background-color: rgba(0, 0, 0, 0.7);
+    font-size: 1.5em;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 5px rgba(137,12,66, 0.678);
+}
 
 main > .link-container {
     border: 5px double var(--accent-color);
